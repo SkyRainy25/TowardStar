@@ -95,6 +95,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Contents for using at UE
+<<<<<<< HEAD
 Content/__ExternalActors__/*
 Content/__ExternalObjects__/*
 Content/Angelica/*
@@ -110,6 +111,10 @@ Content/ParagonSerath/*
 Content/ThirdPerson/*
 
 Content/Maps/SurvivalMap.umap
+=======
+Content/*
+
+>>>>>>> daf5494de687f3c7730f01ae189f4355b7eeab9c
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
 !Build/IOS/Resources/

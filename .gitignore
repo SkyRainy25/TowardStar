@@ -98,9 +98,6 @@ DerivedDataCache/*
 <<<<<<< HEAD
 Content/__ExternalActors__/*
 Content/__ExternalObjects__/*
-Content/Angelica/*
-Content/Assets/*
-Content/AuraAssets/*
 Content/Collections/*
 Content/Developers/*
 Content/FXVarietyPack/*
@@ -112,7 +109,7 @@ Content/ThirdPerson/*
 
 Content/Maps/SurvivalMap.umap
 =======
-Content/*
+
 
 >>>>>>> daf5494de687f3c7730f01ae189f4355b7eeab9c
 ### UnrealEngine Patch ###
